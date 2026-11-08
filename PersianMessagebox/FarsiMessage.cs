@@ -75,13 +75,7 @@ namespace System.Windows.Forms
                     
                     btnYes.Visible = false;
                     btnNo.Visible = false;
-                    //btnAbort.Visible = true;
-                    //btnRetry.Visible = true;
-                    //btnIgnore.Visible = true;
-                    //btnCancel.Visible = false;
-                    //btnAbort.Left = groupBox1.Width - 106;
-                    //btnRetry.Left = groupBox1.Width - 210;
-                    //btnIgnore.Left = groupBox1.Width - 314;
+                    
 
                     break;
 
@@ -90,11 +84,7 @@ namespace System.Windows.Forms
                    
                     btnYes.Visible = false;
                     btnNo.Visible = false;
-                    //btnAbort.Visible = false;
-                    //btnRetry.Visible = false;
-                    //btnIgnore.Visible = false;
-                    //btnCancel.Visible = false;
-                    //btnOk.Left = groupBox1.Width - 106;
+                    
 
 
                     break;
